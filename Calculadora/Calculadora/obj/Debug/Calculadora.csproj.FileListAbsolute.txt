@@ -20,3 +20,14 @@ C:\Users\Aluno\Downloads\programa-o-c--main (1)\Calculadora\Calculadora\obj\Debu
 C:\Users\Aluno\Downloads\programa-o-c--main (1)\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Downloads\programa-o-c--main (1)\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Aluno\Downloads\programa-o-c--main (1)\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\Downloads\programa-o-c--main\Calculadora\Calculadora\bin\Debug\Calculadora.pdb

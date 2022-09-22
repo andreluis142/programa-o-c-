@@ -70,7 +70,7 @@ namespace Calculadora
 
         private void buttonSair_Click(object sender, EventArgs e)
         {
-            Environment.Exit();
+            this.Close();
         }
 
         private void labelValorFinal_Click(object sender, EventArgs e)
