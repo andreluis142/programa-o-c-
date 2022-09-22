@@ -39,6 +39,8 @@
             this.buttonMultiplicar = new System.Windows.Forms.Button();
             this.buttonSubtrair = new System.Windows.Forms.Button();
             this.buttonDividir = new System.Windows.Forms.Button();
+            this.buttonSair = new System.Windows.Forms.Button();
+            this.buttonLimpar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // labelNumero1
@@ -67,7 +69,7 @@
             // 
             this.labelResultado.AutoSize = true;
             this.labelResultado.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelResultado.Location = new System.Drawing.Point(103, 138);
+            this.labelResultado.Location = new System.Drawing.Point(33, 139);
             this.labelResultado.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelResultado.Name = "labelResultado";
             this.labelResultado.Size = new System.Drawing.Size(108, 33);
@@ -79,15 +81,17 @@
             this.labelValorFinal.AutoSize = true;
             this.labelValorFinal.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.labelValorFinal.Font = new System.Drawing.Font("Segoe Print", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelValorFinal.Location = new System.Drawing.Point(147, 171);
+            this.labelValorFinal.Location = new System.Drawing.Point(73, 172);
             this.labelValorFinal.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelValorFinal.Name = "labelValorFinal";
             this.labelValorFinal.Size = new System.Drawing.Size(23, 26);
             this.labelValorFinal.TabIndex = 3;
             this.labelValorFinal.Text = "0";
+            this.labelValorFinal.Click += new System.EventHandler(this.labelValorFinal_Click);
             // 
             // textBoxNumero1
             // 
+            this.textBoxNumero1.BackColor = System.Drawing.SystemColors.Info;
             this.textBoxNumero1.ForeColor = System.Drawing.SystemColors.WindowText;
             this.textBoxNumero1.Location = new System.Drawing.Point(17, 54);
             this.textBoxNumero1.Margin = new System.Windows.Forms.Padding(4);
@@ -105,6 +109,7 @@
             this.textBoxNumero2.Size = new System.Drawing.Size(140, 27);
             this.textBoxNumero2.TabIndex = 5;
             this.textBoxNumero2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBoxNumero2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxNumero2_KeyPress);
             // 
             // buttonSomar
             // 
@@ -152,12 +157,34 @@
             this.buttonDividir.UseVisualStyleBackColor = true;
             this.buttonDividir.Click += new System.EventHandler(this.buttonDividir_Click);
             // 
+            // buttonSair
+            // 
+            this.buttonSair.Location = new System.Drawing.Point(333, 49);
+            this.buttonSair.Name = "buttonSair";
+            this.buttonSair.Size = new System.Drawing.Size(77, 34);
+            this.buttonSair.TabIndex = 10;
+            this.buttonSair.Text = "Sair";
+            this.buttonSair.UseVisualStyleBackColor = true;
+            this.buttonSair.Click += new System.EventHandler(this.buttonSair_Click);
+            // 
+            // buttonLimpar
+            // 
+            this.buttonLimpar.Location = new System.Drawing.Point(334, 101);
+            this.buttonLimpar.Name = "buttonLimpar";
+            this.buttonLimpar.Size = new System.Drawing.Size(77, 34);
+            this.buttonLimpar.TabIndex = 11;
+            this.buttonLimpar.Text = "Limpar";
+            this.buttonLimpar.UseVisualStyleBackColor = true;
+            this.buttonLimpar.Click += new System.EventHandler(this.buttonLimpar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkCyan;
-            this.ClientSize = new System.Drawing.Size(340, 206);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(431, 238);
+            this.Controls.Add(this.buttonLimpar);
+            this.Controls.Add(this.buttonSair);
             this.Controls.Add(this.buttonDividir);
             this.Controls.Add(this.buttonSubtrair);
             this.Controls.Add(this.buttonMultiplicar);
@@ -192,6 +219,8 @@
         private System.Windows.Forms.Button buttonMultiplicar;
         private System.Windows.Forms.Button buttonSubtrair;
         private System.Windows.Forms.Button buttonDividir;
+        private System.Windows.Forms.Button buttonSair;
+        private System.Windows.Forms.Button buttonLimpar;
     }
 }
 

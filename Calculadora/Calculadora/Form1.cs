@@ -58,7 +58,31 @@ namespace Calculadora
         {
             if (char.IsLetter(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsWhiteSpace(e.KeyChar))
                 e.Handled = true;
+            textBoxNumero1.Copy();
+        }
 
+        private void buttonLimpar_Click(object sender, EventArgs e)
+        {
+            textBoxNumero1.Clear();
+            textBoxNumero2.Clear();
+            
+        }
+
+        private void buttonSair_Click(object sender, EventArgs e)
+        {
+            Environment.Exit();
+        }
+
+        private void labelValorFinal_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void textBoxNumero2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsLetter(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsWhiteSpace(e.KeyChar))
+                e.Handled = true;
+            textBoxNumero2.Copy();
         }
     }
 }
