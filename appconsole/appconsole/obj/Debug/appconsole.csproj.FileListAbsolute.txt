@@ -1,8 +1,0 @@
-C:\Users\Aluno\Documents\André\appconsole\appconsole\bin\Debug\appconsole.exe.config
-C:\Users\Aluno\Documents\André\appconsole\appconsole\bin\Debug\appconsole.exe
-C:\Users\Aluno\Documents\André\appconsole\appconsole\bin\Debug\appconsole.pdb
-C:\Users\Aluno\Documents\André\appconsole\appconsole\obj\Debug\appconsole.csproj.AssemblyReference.cache
-C:\Users\Aluno\Documents\André\appconsole\appconsole\obj\Debug\appconsole.csproj.SuggestedBindingRedirects.cache
-C:\Users\Aluno\Documents\André\appconsole\appconsole\obj\Debug\appconsole.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\Documents\André\appconsole\appconsole\obj\Debug\appconsole.exe
-C:\Users\Aluno\Documents\André\appconsole\appconsole\obj\Debug\appconsole.pdb
