@@ -1,0 +1,17 @@
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\bin\Debug\quizCurso.exe.config
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\bin\Debug\quizCurso.exe
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\bin\Debug\quizCurso.pdb
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.csproj.AssemblyReference.cache
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.csproj.SuggestedBindingRedirects.cache
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.Form1.resources
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.Properties.Resources.resources
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.csproj.GenerateResource.cache
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.csproj.CoreCompileInputs.cache
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.exe
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.pdb
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.p1.resources
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.finalquiz.resources
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.p2.resources
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.p3.resources
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.p4.resources
+C:\Users\canal\OneDrive\Documentos\programas\quizCurso\quizCurso\obj\Debug\quizCurso.p5.resources
