@@ -1,8 +1,0 @@
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe.config
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.pdb
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.AssemblyReference.cache
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.SuggestedBindingRedirects.cache
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.CoreCompileInputs.cache
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.exe
-C:\Users\canal\OneDrive\Documentos\programas\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.pdb
