@@ -1,0 +1,12 @@
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.Cadastro.resources
+C:\Users\canal\OneDrive\Documentos\programas\Cadastro\Cadastro\obj\Debug\Cadastro.login.resources
