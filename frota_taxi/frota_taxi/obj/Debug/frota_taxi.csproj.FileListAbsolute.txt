@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\bin\Debug\frota_taxi.exe.config
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\bin\Debug\frota_taxi.exe
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\bin\Debug\frota_taxi.pdb
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.Form1.resources
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.Properties.Resources.resources
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.exe
+C:\Users\Aluno\Documents\André\frota_taxi\frota_taxi\obj\Debug\frota_taxi.pdb
